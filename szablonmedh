@@ -1,0 +1,472 @@
+<meta name="cl-template-id" content="8565584"><meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://matarc123.github.io/sellerswitch/styles107.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans|Roboto" |roboto"|roboto"="" |roboto"|roboto"|roboto"|roboto"|roboto"|roboto"|roboto"|roboto"="">
+<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://matarc123.github.io/sellerswitch/templates.css">
+<div><div id="desktop-renderer"><div id="desktop-wrapper"><div style="position:absolute;top:0;left:0;box-sizing:border-box;-webkit-box-sizing:border-box;height:100%;width:100%;background-color:rgba(255, 255, 255, 1);background-image:[object Object];z-index:-1100" data-element-type="editor.elements.BackgroundElement"></div>
+<div id="desktop-view"><div style="position:absolute;top:0;left:0;box-sizing:border-box;-webkit-box-sizing:border-box;height:105%;width:100%;background-color:#fff;font-family:Open Sans;z-index:-1000;border-width:1px;border-style:solid;border-color:#cdcccb" data-element-type="editor.elements.PageElement"></div>
+<div style="width:100%;min-height:58px;position:relative;display:flex;align-items:flex-start"><div id="element2jhwlt_9" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/W7NRipK.png" width="100%" height="100%" title="" style="border:0"></div>
+<div id="element2jhwlt_12" data-element-type="editor.elements.IconElement"><div style="height:100%;width:100%;display:flex"><svg viewBox="0 0 492.066 492.066" style="height: 100%; width: 100%">
+<path d="M485.128 100.778a38.83 38.83 0 0 0-31.902-16.69h-240.62c-8.98 0-16.27 7.288-16.27 16.278 0 8.987 7.29 16.275 16.27 16.275h240.62c2.05 0 3.99 1 5.166 2.71a6.262 6.262 0 0 1 .73 5.77L414.03 246.496a6.327 6.327 0 0 1-5.9 4.108H155.278L115 78.74c-5.01-21.337-23.81-36.25-45.746-36.25h-44.84C10.92 42.49 0 53.42 0 66.907 0 80.396 10.92 91.32 24.414 91.32h43.38l54.232 231.405c4.908 20.918 23.108 35.574 44.474 36.146-12.56 9.118-20.79 23.813-20.79 40.517 0 27.722 22.46 50.19 50.18 50.19 27.706 0 50.176-22.47 50.176-50.19 0-16.642-8.198-31.28-20.66-40.412h93.622c-12.48 9.13-20.68 23.77-20.68 40.412 0 27.722 22.472 50.19 50.176 50.19 27.723 0 50.198-22.47 50.198-50.19 0-16.642-8.204-31.28-20.678-40.412H400.8c13.496 0 24.417-10.928 24.417-24.415 0-13.486-10.92-24.414-24.416-24.414H169.233l-6.326-26.99h245.226c16.13 0 30.77-10.164 36.4-25.313l45.11-121.396c4.417-11.924 2.732-25.265-4.514-35.67z" fill="rgba(0, 0, 0, 1)"></path></svg></div>
+</div>
+<div id="element2jhwlt_14" data-element-type="editor.elements.IconElement"><div style="height:100%;width:100%;display:flex"><svg viewBox="0 0 30.535 32" style="height: 100%; width: 100%"><path d="M29.53 15.637c-1.04-.99-2.474-1.23-3.74-1.44-.2-.033-.396-.066-.59-.1-.142-.04-.324-.08-.508-.124-1.688-.392-2.88-.775-2.885-2.157-.004-.91.296-1.752.613-2.646.363-1.023.74-2.083.68-3.316-.115-2.198-1.047-4.11-2.498-5.118A3.394 3.394 0 0 0 18.538 0c-1.077 0-1.88.586-2.208 1.606-.23.688-.192 1.357-.15 2.065.008.175.02.354.025.54.04.975-.076 1.78-.36 2.542-.54 1.52-1.624 2.938-2.508 4.006l-.483.607c-.676.853-1.374 1.735-2.168 2.443-.39.308-.806.42-1.34.535-.152.01-9.346.1-9.346.1v13.513s7.21-.01 7.616-.033c.356-.02.7-.04 1.013-.04h.145c.297.062.597.094.91.13.278.028.566.06.868.117.34.065.69.396 1.03.717.196.186.39.365.58.5.195.137.383.275.576.415.588.428 1.2.874 1.89 1.183.855.368 1.798.49 2.712.606.444.06.885.113 1.307.198.275.03.512.058.752.086.715.08 1.456.166 2.197.166.5 0 .94-.04 1.348-.12 1.46-.416 2.39-1.6 2.392-2.96.742-.297 1.406-.917 1.826-1.71.375-.71.5-1.47.365-2.143 1.412-.923 2.14-2.653 1.748-4.138.622-.43 1.052-1.147 1.2-2.02.208-1.21-.165-2.495-.95-3.273zm-.953 2.707c-.048.416-.238.93-.87 1.045-.342.096-.57.296-.68.574-.133.337-.083.76.135 1.12.23.272.265.84.13 1.335-.186.587-.616 1.004-1.28 1.23-.284.034-.537.23-.676.53-.158.34-.123.71.094.966.188.27.152.877-.107 1.377-.206.395-.5.632-.784.632a.505.505 0 0 1-.122-.014l-.045-.008h-.046c-.35 0-.803.152-1.028.5a.795.795 0 0 0-.058.764c.14.373.124.8-.05 1.085-.124.21-.323.33-.592.366-.478.126-.954.126-1.415.126-1.37-.122-2.826-.255-4.23-.508l-.67-.15c-.35-.08-.693-.155-1-.232-.502-.248-1.065-.673-1.608-1.085-.18-.135-.357-.27-.53-.396-.128-.1-.266-.23-.406-.362-.357-.335-.758-.715-1.258-.852-.47-.29-.97-.29-1.377-.29-1.31-.12-1.928-.595-2.247-1.743-.314-1.156-.325-2.476-.307-3.62l.005-.257c.01-1.078.027-2.426.58-3.406.275-.466.823-.566 1.458-.687.878-.143 1.57-.432 2.215-.928.09-.033.186-.1.256-.23.263-.18.478-.442.674-.68a32.572 32.572 0 0 0 2.748-3.387c.175-.26.35-.51.524-.758.798-1.142 1.626-2.323 1.978-3.778.25-1.07.226-1.998.17-3.097l-.008-.164c-.042-.668-.053-1.388.325-1.44a.587.587 0 0 1 .088-.01c.612 0 1.384.773 1.843 1.488.48.908.73 1.86.703 2.72-.026.894-.317 1.74-.626 2.637-.364 1.06-.74 2.156-.654 3.35.125 1.624 1.415 3.03 3.21 3.495.525.136 1.08.227 1.618.314 1.002.163 2.038.332 2.883.806.554.276 1.14.86 1.037 1.624z" fill="rgba(0, 0, 0, 1)"></path></svg></div>
+</div>
+<div id="element2jhwlt_18" data-element-type="editor.elements.IconElement"><div style="height:100%;width:100%;display:flex"><svg viewBox="0 0 33.004 32.216" style="height: 100%; width: 100%"><path d="M4.394 4.394c-5.857 5.857-5.858 15.354 0 21.213 4.875 4.875 12.27 5.688 17.994 2.447l10.617 4.162-4.857-9.998c3.133-5.697 2.29-12.996-2.54-17.824-5.86-5.86-15.357-5.858-21.214 0zm20.925 17.36l.26.512 1.09 2.142.007.01 1.717 3.536-3.748-1.47-.037-.014-2.353-.883-.582-.22c-4.773 3.077-11.22 2.527-15.394-1.645-4.81-4.81-4.81-12.635-.002-17.444 4.81-4.81 12.634-4.81 17.443 0 4.2 4.2 4.732 10.696 1.6 15.477z" fill="rgba(0, 0, 0, 1)"></path><circle cx="9.836" cy="15.649" r="1.833" fill="rgba(0, 0, 0, 1)"></circle><circle cx="15.503" cy="15.649" r="1.833" fill="rgba(0, 0, 0, 1)"></circle><circle cx="21.169" cy="15.649" r="1.833" fill="rgba(0, 0, 0, 1)"></circle></svg></div>
+</div>
+<div id="element2jhwlt_11" data-element-type="editor.elements.TitleElement"><a target="_blank" href="https://www.ebay.de/str/creativebrandseu" style="display:block;width:100%"><div style="color:rgba(0, 0, 0, 1);font-size:30px;font-style:normal;text-align:center;text-decoration:none;font-family:Roboto">Shop</div>
+</a></div>
+<div id="element2jhwlt_13" data-element-type="editor.elements.TitleElement"><div style="color:rgba(0, 0, 0, 1);font-size:43px;font-style:normal;text-align:center;text-decoration:none;font-family:Roboto">|</div>
+</div>
+<div id="element2jhwlt_15" data-element-type="editor.elements.TitleElement"><a target="_blank" href="https://feedback.ebay.de/ws/eBayISAPI.dll?ViewFeedback2&amp;userid=creative_deco&amp;rt=nc" style="display:block;width:100%"><div style="color:rgba(0, 0, 0, 1);font-size:30px;font-style:normal;text-align:center;text-decoration:none;font-family:Roboto">Bewertungen</div>
+</a></div>
+<div id="element2jhwlt_16" data-element-type="editor.elements.TitleElement"><div style="color:rgba(0, 0, 0, 1);font-size:43px;font-style:normal;text-align:center;text-decoration:none;font-family:Roboto">|</div>
+</div>
+<div id="element2jhwlt_19" data-element-type="editor.elements.TitleElement"><a target="_blank" href="https://contact.ebay.de/ws/eBayISAPI.dll?FindAnswers&amp;requested=creative_deco" style="display:block;width:100%"><div style="color:rgba(0, 0, 0, 1);font-size:30px;font-style:normal;text-align:center;text-decoration:none;font-family:Roboto">Kontakt</div>
+</a></div></div>
+<div style="width:100%;min-height:882px;position:relative;display:flex;align-items:flex-start"><div id="elementmu0ra_7" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/L1FaZEB.jpg" width="100%" height="100%" title="" style="border:0">&lt;</div>
+<div id="elementmu0ra_25" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el"><p><span style="color:#000000"><strong>Spezifikation:</strong></span></p>
+<p><br>
+</p>
+<ul>
+<li><span style="color:#000000"><strong>Außenmaße</strong> - mit einem äußeren Umfang von 40 x 30 x 14 cm und einer Innenfläche von 37,5 x 27,5 x 9,8 cm, ist diese Kiste perfekt zur Aufbewahrung von Dokumenten, Wertsachen, Spielzeugen &amp; Werkzeugen geeignet.</span></li>
+<li><span style="color:#000000"><strong>Premium zertifiziert</strong> - leichtes Material mit einer Wandstärke von 1 cm – das Holz, welches verpackt wird, riecht sehr schön und frisch und führt bei Nutzung zu erfrischenden Gedanken</span></li>
+<li><span style="color:#000000"><strong>Großartige Qualität</strong> - das Kiefernholz stammt aus den nachhaltigen Wäldern der Karpaten, von welchen bekannt ist, dass dort das höchste Niveau an Holz in der Welt zu bekommen ist</span></li>
+<li><span style="color:#000000"><strong>Präzises Schneiden</strong> - durch die abgerundeten Kanten ist das Gestalten der Box für alle Altersgruppen geeignet! Perfekt gedacht zum Beizen, Lackieren, Pyrographie, Handwerk und für andere dekorative Projekte!</span></li>
+<li><span style="color:#000000"><strong>Innenhöhe</strong> des Deckels: ca. 2,4 cm, wandstärke ca. 0,8 bis 1 cm</span></li>
+</ul>
+<p><br>
+</p>
+<p><span style="color:#000000"><strong>Gesicherte Qualität</strong></span></p>
+<p><span style="color:#000000">Die Holzkiste wurde für die anspruchsvollsten Kunden hergestellt - die Verbindungen sind zusammengeschraubt, anstatt einfach zusammengeklebt. Unsere Holzbox ist aus robustem Kiefernholz hergestellt dafür, um im Laufe der Jahre zu dauern. Sie bietet auch eine ideale Oberfläche für Decoupage, Färbung, Lackieren, Pyrographie und viele andere künstlerische Methoden. Kann als Erinnerungsbox verwendet werden, um sich an geliebte Menschen zu erinnern.</span></p>
+<p><br>
+</p>
+<p><span style="color:#000000"><strong>Hergestellt in der EU - erfüllt die höchsten Sicherheitsstandards, die möglich sind.</strong></span></p>
+<p><span style="color:#000000">Befürchten Sie, dass Ihre Holzkisten aus China kommen und Sie nicht sicher sind, ob es aus einer zuverlässigen Quelle kommt? Wählen Sie Creative Deco - alle unsere Produktkomponenten stammen aus der EU und sind in der EU hergestellt, um die Regulierungsstandards sowohl lokal, als auch national zu erfüllen - die Holzkisten werden aus nachhaltigen Quellen bezogen und langlebigen sind, daher sind sie absolut sicher für die Kinder ab dem 3. Lebensjahr.</span></p>
+<p><br>
+</p>
+<p><span style="color:#000000"><strong>Ideal für Spielzeuglagerung, Werkzeuglagerung, Kleiderlagerung, Wertsachen, Lebensmittellagerung Display! Kann durch Gravur Decoupage personalisiert werden!</strong></span></p>
+</div>
+</div></div>
+<div style="width:100%;min-height:64px;position:relative;display:flex;align-items:flex-start"><div id="elementmu0ra_13" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/8M9qGut.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="elementmu0ra_14" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/b9okqZ7.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="elementmu0ra_15" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/AxaaRAi.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="elementmu0ra_16" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/3Ug8PNw.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="elementmu0ra_11" data-element-type="editor.elements.TitleElement"><div style="color:rgba(0, 0, 0, 1);font-size:25px;font-style:normal;text-align:left;text-decoration:none;font-family:Roboto">Mehrere Funktione:</div>
+</div></div>
+<div style="width:100%;min-height:341px;position:relative;display:flex;align-items:flex-start"><div id="elementmu0ra_17" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><strong><span style="font-size:14px">Wählen Sie Ihre eigene Version</span></strong></span></p>
+<p><span style="color:#000000;"><span style="font-size:11px">Unsere Boxen gibt es nicht nur in 3 verschiedenen Größen, sondern auch in 9 leuchtenden Farben, in einer Variante mit oder ohne Griff - wir sind überzeugt, dass jeder die richtige Version für sich und sein Zuhause finden wird. Bewahren Sie alles, was Ihre Vorstellungskraft Ihnen sagt, auf oder machen Sie es zu einem Kunstwerk an sich!</span></span></p>
+</div>
+</div>
+<div id="elementmu0ra_18" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><strong>Küchenorganisation</strong></span></p>
+<p><span style="color:#000000;"><span style="font-size:11px">Mit größter Sorgfalt hergestellte und bemalte Kisten eignen sich hervorragend zur Aufbewahrung oder Anordnung von kleinen Küchengeräten und Utensilien, Würzen, Flaschen, Konserven oder vielen anderen. Sie passen nicht nur gut in jede Küche oder jeden Essplatz, sondern sind auch äußerst nützlich und verstellbar.</span></span></p>
+</div>
+</div>
+<div id="elementmu0ra_19" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><strong>Werkzeugaufbewahrung</strong></span></p>
+<p><span style="color:#000000;"><span style="font-size:11px">Dank 3 verschiedener Größen von Creative Deco Holzkisten sind sie perfekt für die Aufbewahrung von verschiedenen Arten von Werkzeugen oder Utensilien geeignet. Malen, skizzieren, DIY-Aktivitäten, basteln, bauen, sammeln oder organisieren? Unsere farbenfrohen Boxen werden speziell für Sie hergestellt!</span></span></p>
+</div>
+</div>
+<div id="elementmu0ra_20" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><strong>Ein Haus mit minimalistischem Design</strong></span></p>
+<p><span style="color:#000000;"><span style="font-size:11px">Unsere Boxen sind ideal für jedes Haus, in dem Minimalismus geschätzt wird. Sie sind perfekt für die Aufbewahrung von Dingen, die wir nicht dem Tageslicht aussetzen wollen, oder um Ihr Zuhause besser zu organisieren. Dank des Deckels können Sie die Box verschließen und den Inhalt bleibt nur Ihnen bekannt.</span></span></p>
+</div>
+</div></div>
+<div style="width:100%;min-height:64px;position:relative;display:flex;align-items:flex-start"><div id="elementmu0ra_131" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/2KLrq5r.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="elementmu0ra_141" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/g3Zif1L.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="elementmu0ra_151" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/ua2pW2G.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="elementmu0ra_11" data-element-type="editor.elements.TitleElement"><div style="color:rgba(0, 0, 0, 1);font-size:25px;font-style:normal;text-align:left;text-decoration:none;font-family:Roboto"></div>
+</div></div>
+<div style="width:100%;min-height:341px;position:relative;display:flex;align-items:flex-start"><div id="elementmu0ra_171" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><strong><span style="font-size:14px">Malen &amp; Dekorieren</span></strong></span></p>
+<p><span style="color:#000000;"><span style="font-size:11px">Unsere Schachteln können auf vielfältige Weise dekoriert werden - durch Decoupage, Lackierung, Beizen, Lackierung, Pyrographie und andere künstlerische Techniken. Sie sind ein großartiges Geschenk für Weihnachten, Geburtstagen, Ostern und anderen besonderen Anlässen wie Gedächtnisboxen für Neugeborene und Verstorbene.</span></span></p>
+</div>
+</div>
+<div id="elementmu0ra_181" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><strong>Gravieren</strong></span></p>
+<p><span style="color:#000000;"><span style="font-size:11px">Alle unsere Produkte aus Holz können auf allen ihren Seiten graviert werden - sowohl das Sperrholz auf der Unterseite und Oberseite als auch Kiefernholz an den Seiten. Um die besten Ergebnisse zu erreichen, nutzen Sie einen Laser-Gravur-Service, das in der Regel können bei Ihrem örtlichen Schuhreparaturwerkstatt oder Juwelierwerkstatt zu finden ist.</span></span></p>
+</div>
+</div>
+<div id="elementmu0ra_191" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><strong>Zubehör</strong></span></p>
+<p><span style="color:#000000;"><span style="font-size:11px">Holz ermöglicht eine Vielzahl von Anpassungsmöglichkeiten - sei es beim Austausch der Scharniere, beim Anbringen einer Verriegelung oder bei der Sicherung der Ecken der Box. Obwohl es empfohlen wird, Maschinen zu verwenden, um dieses Zubehör anzubringen, können sie dennoch leicht mit einfachen Handwerkzeugen befestigt werden, was den Prozess reibungslos und angenehm macht.</span></span></p>
+</div>
+</div>
+<div id="elementmu0ra_20" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"></span></p>
+<p><span style="color:#000000;"></span></p>
+</div>
+</div></div>
+<div style="width:100%;min-height:834px;position:relative;display:flex;align-items:flex-start"><div id="element_5" data-element-type="editor.elements.TabsElement"><div class="cl-htabs-el-wrapper" style="height:85%"><div style="width:100%;height:100%;display:flex;flex-direction:column"><input type="radio" id="cl-htabs-el-tabs1-u_element_5" name="cl-htabs-el-tabs-u_element_5" value="1" checked=""><input type="radio" id="cl-htabs-el-tabs2-u_element_5" name="cl-htabs-el-tabs-u_element_5" value="2"><input type="radio" id="cl-htabs-el-tabs3-u_element_5" name="cl-htabs-el-tabs-u_element_5" value="3"><div style="width:100%;text-align:left;flex-shrink:0"><span><div class="cl-htabs-el-label cl-htabs-el-label1-u_element_5" style="border-width:1px;border-style:solid;border-color:#D3D3CD;font-size:20px;font-family:Open Sans;font-weight:bold;color:rgba(255, 255, 255, 1);text-align:left;border-top-left-radius:4px;border-top-right-radius:4px;padding-top:10px;padding-left:10px;padding-right:10px;padding-bottom:10px;background-color:rgba(0, 0, 0, 1);z-index:0;margin-left:0">Zahlung</div>
+<div class="cl-htabs-el-label cl-htabs-el-label2-u_element_5" style="border-width:1px;border-style:solid;border-color:#D3D3CD;font-size:20px;font-family:Open Sans;font-weight:bold;color:rgba(255, 255, 255, 1);text-align:left;border-top-left-radius:4px;border-top-right-radius:4px;padding-top:10px;padding-left:10px;padding-right:10px;padding-bottom:10px;background-color:rgba(0, 0, 0, 1);z-index:0;margin-left:-1px">Versand</div>
+<div class="cl-htabs-el-label cl-htabs-el-label3-u_element_5" style="border-width:1px;border-style:solid;border-color:#D3D3CD;font-size:20px;font-family:Open Sans;font-weight:bold;color:rgba(255, 255, 255, 1);text-align:left;border-top-left-radius:4px;border-top-right-radius:4px;padding-top:10px;padding-left:10px;padding-right:10px;padding-bottom:10px;background-color:rgba(0, 0, 0, 1);z-index:0;margin-left:-1px">Rückgabe</div>
+</span></div>
+<div style="position:absolute;top:0;left:0;z-index:1;width:100%;text-align:left"><span><label for="cl-htabs-el-tabs1-u_element_5" data-interactive="true" data-active-element-id="element_5_child_0" class="cl-htabs-el-label cl-htabs-el-label1-u_element_5 cl-htabs-el-thin-bottom" style="border-width:1px;border-style:solid;border-color:#D3D3CD;font-size:20px;font-family:Open Sans;font-weight:bold;color:rgba(255, 255, 255, 1);text-align:left;border-top-left-radius:4px;border-top-right-radius:4px;padding-top:10px;padding-left:10px;padding-right:10px;padding-bottom:10px;background-color:rgba(0, 0, 0, 1);margin-left:0">Zahlung<div class="label-content-connector" style="display:none"></div>
+</label><label for="cl-htabs-el-tabs2-u_element_5" data-interactive="true" data-active-element-id="element_5_child_1" class="cl-htabs-el-label cl-htabs-el-label2-u_element_5 cl-htabs-el-thin-bottom" style="border-width:1px;border-style:solid;border-color:#D3D3CD;font-size:20px;font-family:Open Sans;font-weight:bold;color:rgba(255, 255, 255, 1);text-align:left;border-top-left-radius:4px;border-top-right-radius:4px;padding-top:10px;padding-left:10px;padding-right:10px;padding-bottom:10px;background-color:rgba(0, 0, 0, 1);margin-left:-1px">Versand
+<div class="label-content-connector" style="display:none"></div>
+</label><label for="cl-htabs-el-tabs3-u_element_5" data-interactive="true" data-active-element-id="element_5_child_2" class="cl-htabs-el-label cl-htabs-el-label3-u_element_5 cl-htabs-el-thin-bottom" style="border-width:1px;border-style:solid;border-color:#D3D3CD;font-size:20px;font-family:Open Sans;font-weight:bold;color:rgba(255, 255, 255, 1);text-align:left;border-top-left-radius:4px;border-top-right-radius:4px;padding-top:10px;padding-left:10px;padding-right:10px;padding-bottom:10px;background-color:rgba(0, 0, 0, 1);margin-left:-1px">Rückgabe
+<div class="label-content-connector" style="display:none"></div>
+</label></span></div>
+<div style="border-width:1px;border-style:solid;border-color:#D3D3CD;border-top-left-radius:0;border-top-right-radius:4px;border-bottom-left-radius:4px;border-bottom-right-radius:4px;background-color:white;height:calc(100% - 70px);margin-top:-1px" class="cl-htabs-el-content-container"><div class="cl-htabs-el-content cl-htabs-el-content1-u_element_5 phantomjs-relative"><div id="element_5_child_0" class="cl-htabs-el-child-element" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><span style="font-size:16px"><span style="font-family:open sans">Wir akzeptieren Zahlungen mit einer der folgenden Methoden:</span></span></span></p>
+<p><span style="color:#000000;"><br>
+</span></p>
+<p><span style="color:#000000;"><span style="font-size:16px"><span style="font-family:open sans"><strong>PayPal</strong></span></span></span></p>
+<p><span style="color:#000000;"><br>
+</span></p>
+<p><span style="color:#000000;"><span style="font-size:16px"><span style="font-family:open sans">Bitte zahlen Sie so schnell wie möglich nach dem Kauf, damit wir Ihren Artikel schneller an Sie senden können!</span></span></span></p>
+</div>
+</div></div>
+<div class="cl-htabs-el-content cl-htabs-el-content2-u_element_5 "><div id="element_5_child_1" class="cl-htabs-el-child-element" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><span style="font-family:open sans"><span style="font-size:16px">Wir bieten <strong>KOSTENLOSEN</strong> Versand für alle Bestellungen!</span></span></span></p>
+<p><span style="color:#000000;"><br>
+</span></p>
+<p><span style="color:#000000;"><span style="font-family:open sans"><span style="font-size:16px">Ihre Bestellung wird innerhalb von 1 Werktag nach Zahlungseingang (Montag-Freitag) versandt und sollte voraussichtlich ein oder zwei Tage nach Versand eingehen.</span></span></span></p>
+<p><span style="color:#000000;"><br>
+</span></p>
+<p><span style="color:#000000;"><span style="font-family:open sans"><span style="font-size:16px">In dem sehr unwahrscheinlichen Fall, dass Ihr Artikel während des Versands verloren geht oder beschädigt wird, setzen Sie sich bitte mit uns in Verbindung, und wir stellen entweder eine vollständige Rückerstattung oder einen Ersatz aus.</span></span></span></p>
+</div>
+</div></div>
+<div class="cl-htabs-el-content cl-htabs-el-content3-u_element_5 "><div id="element_5_child_2" class="cl-htabs-el-child-element" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><span style="font-size:16px"><span style="font-family:open sans">30 TAGE GELD-ZURÜCK-GARANTIE</span></span></span></p>
+<p><span style="color:#000000;"><br>
+</span></p>
+<p><span style="color:#000000;"><span style="font-size:16px"><span style="font-family:open sans">Wir glauben, dass wir das hochwertigste Produkt auf dem Markt haben. Aus diesem Grund erhalten Creative Deco-Holzkisten eine 30-tägige Geld-zurück-Garantie, die belegt, dass Sie mit unseren Holzkisten zu 100% zufrieden sein werden.</span></span></span></p>
+<p><span style="color:#000000;"><br>
+</span></p>
+<p><span style="color:#000000;"><span style="font-size:16px"><span style="font-family:open sans">Jedes Produkt, das Sie zurücksenden, muss sich in dem Zustand befinden, in dem Sie es erhalten haben und in der Originalverpackung.</span></span></span></p>
+</div>
+</div></div></div></div></div></div>
+<div id="element003h6q_6" data-element-type="editor.elements.HtmlElement"><center><div style="overflow-x:auto">
+<table cellpadding="2" cellspacing="0" style="color: rgb(0,0,0); text-align: center; width: 945px;">
+<tbody><tr style="background-color: rgb(255, 255, 255);">
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none;"><br>
+</td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><img src="https://i.imgur.com/Bs654Ec.png" style="width: 100px; height: 200px;"><br>
+</td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none;"><a href="LINK" target="_blank"><img src="https://i.imgur.com/8y9nZb7.png" style="width: 100px; height: 200px;"><br>
+</a></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none;"><a href="LINK" target="_blank"><img src="https://i.imgur.com/9Skv9HO.png" style="width: 100px; height: 200px;"><br>
+</a></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none;"><a href="LINK" target="_blank"><img src="https://i.imgur.com/chIBXAi.png" style="width: 100px; height: 200px;"><br>
+</a></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none;"><a href="LINK" target="_blank"><img src="https://i.imgur.com/EM93rJi.png" style="width: 100px; height: 200px;"><br>
+</a></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none;"><a href="LINK" target="_blank"><img src="https://i.imgur.com/mJmGN9P.png" style="width: 100px; height: 200px;"><br>
+</a></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><br>
+</td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><span style="font-size:14px;"><b>Kleine Box</b></span></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><span style="font-size:14px;"><a href="LINK" target="_blank"><b>Kleine Box</b></a></span></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><span style="font-size:14px;"><a href="LINK" target="_blank"><b>Medium Box</b></a></span></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><span style="font-size:14px;"><a href="LINK" target="_blank"><b>Medium Box</b></a></span></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><span style="font-size:14px;"><a href="LINK" target="_blank"><b>Große Box</b></a></span></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><span style="font-size:14px;"><a href="LINK" target="_blank"><b>Große Box</b></a></span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Außenmaße</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">30 x 20 x 14 cm</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">30 x 20 x 14 cm</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">40 x 30 x 14 cm</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">40 x 30 x 14 cm</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">40 x 30 x 24 cm</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">40 x 30 x 24 cm</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Mit Handgriff</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Nein</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Nein</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Nein</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Lackfarbe</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">Blau</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Blau</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Blau</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Blau</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Blau</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Blau</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Material</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">Natürliches Kiefernholz</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Natürliches Kiefernholz</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Natürliches Kiefernholz</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Natürliches Kiefernholz</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Natürliches Kiefernholz</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Natürliches Kiefernholz</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Sicher in der Anwendung</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">Abgerundete Kanten</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Abgerundete Kanten</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Abgerundete Kanten</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Abgerundete Kanten</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Abgerundete Kanten</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Abgerundete Kanten</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Endbearbeitung</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">Acryl-Holzlasur</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Acryl-Holzlasur</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Acryl-Holzlasur</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Acryl-Holzlasur</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Acryl-Holzlasur</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Acryl-Holzlasur</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Andere Farben erhältlich</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Scharniere</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">Goldfarbenes Metall</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Goldfarbenes Metall</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Goldfarbenes Metall</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Goldfarbenes Metall</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Goldfarbenes Metall</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Goldfarbenes Metall</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Netto-Gewicht</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">0,8 kg</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">0,8 kg</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">1,5 kg</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">1,5 kg</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">2 kg</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">2 kg</span></td>
+</tr>
+</tbody></table>
+</div>
+</center></div></div></div></div></div>
+<div id="mobile-renderer"><div id="mobile-view"><div style="position:absolute;top:0;left:0;box-sizing:border-box;-webkit-box-sizing:border-box;height:100%;width:100%;background-color:#fff;z-index:-1000" data-element-type="editor.elements.PageElement"></div>
+<div style="width:100%;min-height:114px;position:relative;display:flex;align-items:flex-start"><div id="mobile_element2jhwlt_9" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/W7NRipK.png" width="100%" height="100%" title="" style="border:0"></div>
+<div id="mobile_element2jhwlt_14" data-element-type="editor.elements.IconElement"><div style="height:100%;width:100%;display:flex"><svg viewBox="0 0 30.535 32" style="height: 100%; width: 100%">
+<path d="M29.53 15.637c-1.04-.99-2.474-1.23-3.74-1.44-.2-.033-.396-.066-.59-.1-.142-.04-.324-.08-.508-.124-1.688-.392-2.88-.775-2.885-2.157-.004-.91.296-1.752.613-2.646.363-1.023.74-2.083.68-3.316-.115-2.198-1.047-4.11-2.498-5.118A3.394 3.394 0 0 0 18.538 0c-1.077 0-1.88.586-2.208 1.606-.23.688-.192 1.357-.15 2.065.008.175.02.354.025.54.04.975-.076 1.78-.36 2.542-.54 1.52-1.624 2.938-2.508 4.006l-.483.607c-.676.853-1.374 1.735-2.168 2.443-.39.308-.806.42-1.34.535-.152.01-9.346.1-9.346.1v13.513s7.21-.01 7.616-.033c.356-.02.7-.04 1.013-.04h.145c.297.062.597.094.91.13.278.028.566.06.868.117.34.065.69.396 1.03.717.196.186.39.365.58.5.195.137.383.275.576.415.588.428 1.2.874 1.89 1.183.855.368 1.798.49 2.712.606.444.06.885.113 1.307.198.275.03.512.058.752.086.715.08 1.456.166 2.197.166.5 0 .94-.04 1.348-.12 1.46-.416 2.39-1.6 2.392-2.96.742-.297 1.406-.917 1.826-1.71.375-.71.5-1.47.365-2.143 1.412-.923 2.14-2.653 1.748-4.138.622-.43 1.052-1.147 1.2-2.02.208-1.21-.165-2.495-.95-3.273zm-.953 2.707c-.048.416-.238.93-.87 1.045-.342.096-.57.296-.68.574-.133.337-.083.76.135 1.12.23.272.265.84.13 1.335-.186.587-.616 1.004-1.28 1.23-.284.034-.537.23-.676.53-.158.34-.123.71.094.966.188.27.152.877-.107 1.377-.206.395-.5.632-.784.632a.505.505 0 0 1-.122-.014l-.045-.008h-.046c-.35 0-.803.152-1.028.5a.795.795 0 0 0-.058.764c.14.373.124.8-.05 1.085-.124.21-.323.33-.592.366-.478.126-.954.126-1.415.126-1.37-.122-2.826-.255-4.23-.508l-.67-.15c-.35-.08-.693-.155-1-.232-.502-.248-1.065-.673-1.608-1.085-.18-.135-.357-.27-.53-.396-.128-.1-.266-.23-.406-.362-.357-.335-.758-.715-1.258-.852-.47-.29-.97-.29-1.377-.29-1.31-.12-1.928-.595-2.247-1.743-.314-1.156-.325-2.476-.307-3.62l.005-.257c.01-1.078.027-2.426.58-3.406.275-.466.823-.566 1.458-.687.878-.143 1.57-.432 2.215-.928.09-.033.186-.1.256-.23.263-.18.478-.442.674-.68a32.572 32.572 0 0 0 2.748-3.387c.175-.26.35-.51.524-.758.798-1.142 1.626-2.323 1.978-3.778.25-1.07.226-1.998.17-3.097l-.008-.164c-.042-.668-.053-1.388.325-1.44a.587.587 0 0 1 .088-.01c.612 0 1.384.773 1.843 1.488.48.908.73 1.86.703 2.72-.026.894-.317 1.74-.626 2.637-.364 1.06-.74 2.156-.654 3.35.125 1.624 1.415 3.03 3.21 3.495.525.136 1.08.227 1.618.314 1.002.163 2.038.332 2.883.806.554.276 1.14.86 1.037 1.624z" fill="rgba(0, 0, 0, 1)"></path></svg></div>
+</div>
+<div id="mobile_element2jhwlt_18" data-element-type="editor.elements.IconElement"><div style="height:100%;width:100%;display:flex"><svg viewBox="0 0 33.004 32.216" style="height: 100%; width: 100%"><path d="M4.394 4.394c-5.857 5.857-5.858 15.354 0 21.213 4.875 4.875 12.27 5.688 17.994 2.447l10.617 4.162-4.857-9.998c3.133-5.697 2.29-12.996-2.54-17.824-5.86-5.86-15.357-5.858-21.214 0zm20.925 17.36l.26.512 1.09 2.142.007.01 1.717 3.536-3.748-1.47-.037-.014-2.353-.883-.582-.22c-4.773 3.077-11.22 2.527-15.394-1.645-4.81-4.81-4.81-12.635-.002-17.444 4.81-4.81 12.634-4.81 17.443 0 4.2 4.2 4.732 10.696 1.6 15.477z" fill="rgba(0, 0, 0, 1)"></path><circle cx="9.836" cy="15.649" r="1.833" fill="rgba(0, 0, 0, 1)"></circle><circle cx="15.503" cy="15.649" r="1.833" fill="rgba(0, 0, 0, 1)"></circle><circle cx="21.169" cy="15.649" r="1.833" fill="rgba(0, 0, 0, 1)"></circle></svg></div>
+</div>
+<div id="mobile_element2jhwlt_15" data-element-type="editor.elements.TitleElement"><a target="_blank" href="https://feedback.ebay.de/ws/eBayISAPI.dll?ViewFeedback2&amp;userid=creative_deco&amp;rt=nc" style="display:block;width:100%"><div style="color:rgba(0, 0, 0, 1);font-size:24px;font-style:normal;text-align:center;text-decoration:none;font-family:Roboto">Bewertungen</div>
+</a></div>
+<div id="mobile_element2jhwlt_19" data-element-type="editor.elements.TitleElement"><a target="_blank" href="https://contact.ebay.de/ws/eBayISAPI.dll?FindAnswers&amp;requested=creative_deco" style="display:block;width:100%"><div style="color:rgba(0, 0, 0, 1);font-size:24px;font-style:normal;text-align:center;text-decoration:none;font-family:Roboto">Kontakt</div>
+</a></div></div>
+<div style="width:100%;min-height:936px;position:relative;display:flex;align-items:flex-start"><div id="mobile_elementmu0ra_7" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/L1FaZEB.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="mobile_elementmu0ra_25" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el"><p><span style="color:#000000"><strong>Spezifikation:</strong></p>
+<p><br>
+</p>
+<p><span style="color:#000000"><strong>•Außenmaße</strong> - mit einem äußeren Umfang von 40 x 30 x 14 cm und einer Innenfläche von 37,5 x 27,5 x 9,8 cm, ist diese Kiste perfekt zur Aufbewahrung von Dokumenten, Wertsachen, Spielzeugen & Werkzeugen geeignet.</span></p>
+<p><span style="color:#000000"><strong>•Premium zertifiziert</strong> - leichtes Material mit einer Wandstärke von 1 cm – das Holz, welches verpackt wird, riecht sehr schön und frisch und führt bei Nutzung zu erfrischenden Gedanken.</span></p>
+<p><span style="color:#000000"><strong>•Großartige Qualität</strong> - das Kiefernholz stammt aus den nachhaltigen Wäldern der Karpaten, von welchen bekannt ist, dass dort das höchste Niveau an Holz in der Welt zu bekommen ist.</span></p>
+<p><span style="color:#000000"><strong>•Präzises Schneiden</strong> - durch die abgerundeten Kanten ist das Gestalten der Box für alle Altersgruppen geeignet! Perfekt gedacht zum Beizen, Lackieren, Pyrographie, Handwerk und für andere dekorative Projekte!</span></p>
+<p><span style="color:#000000"><strong>•Innenhöhe</strong> des Deckels: ca. 2,4 cm, wandstärke ca. 0,8 bis 1 cm</span></p>
+<p><br>
+</p>
+<p><span style="color:#000000"><strong>Gesicherte Qualität</strong></span></p>
+<p><span style="color:#000000">Die Holzkiste wurde für die anspruchsvollsten Kunden hergestellt - die Verbindungen sind zusammengeschraubt, anstatt einfach zusammengeklebt. Unsere Holzbox ist aus robustem Kiefernholz hergestellt dafür, um im Laufe der Jahre zu dauern. Sie bietet auch eine ideale Oberfläche für Decoupage, Färbung, Lackieren, Pyrographie und viele andere künstlerische Methoden. Kann als Erinnerungsbox verwendet werden, um sich an geliebte Menschen zu erinnern.</span></p>
+<p><br>
+</p>
+<p><span style="color:#000000"><strong>Hergestellt in der EU - erfüllt die höchsten Sicherheitsstandards, die möglich sind.</strong></span></p>
+<p><span style="color:#000000">Befürchten Sie, dass Ihre Holzkisten aus China kommen und Sie nicht sicher sind, ob es aus einer zuverlässigen Quelle kommt? Wählen Sie Creative Deco - alle unsere Produktkomponenten stammen aus der EU und sind in der EU hergestellt, um die Regulierungsstandards sowohl lokal, als auch national zu erfüllen - die Holzkisten werden aus nachhaltigen Quellen bezogen und langlebigen sind, daher sind sie absolut sicher für die Kinder ab dem 3. Lebensjahr.</span></p>
+<p><br>
+</p>
+<p><span style="color:#000000"><strong>Ideal für Spielzeuglagerung, Werkzeuglagerung, Kleiderlagerung, Wertsachen, Lebensmittellagerung & Display! Kann durch Gravur & Decoupage personalisiert werden!</strong></span></p>
+</div>
+<p><br></p>
+</div></div>
+<div style="width:100%;min-height:35px;position:relative;display:flex;align-items:flex-start"><div id="mobile_elementmu0ra_11" data-element-type="editor.elements.TitleElement"><div style="color:rgba(0, 0, 0, 1);font-size:25.92px;font-style:normal;text-align:left;text-decoration:none;font-family:Roboto">Mehrere Funktione:</div>
+</div></div>
+<div style="width:100%;min-height:339px;position:relative;display:flex;align-items:flex-start"><div id="mobile_elementmu0ra_14" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/8M9qGut.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="mobile_elementmu0ra_17" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><strong><span style="font-size: 14px;">Wählen Sie Ihre eigene Version</span></strong></span></p>
+<p><span style="color:#000000;"><span style="font-size: 11px;">Unsere Boxen gibt es nicht nur in 3 verschiedenen Größen, sondern auch in 9 leuchtenden Farben, in einer Variante mit oder ohne Griff - wir sind überzeugt, dass jeder die richtige Version für sich und sein Zuhause finden wird. Bewahren Sie alles, was Ihre Vorstellungskraft Ihnen sagt, auf oder machen Sie es zu einem Kunstwerk an sich!</span></span></p>
+</div>
+</div></div>
+<div style="width:100%;min-height:339px;position:relative;display:flex;align-items:flex-start"><div id="mobile_elementmu0ra_15" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/b9okqZ7.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="mobile_elementmu0ra_18" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><strong>Küchenorganisation</strong></span></p>
+<p><span style="color:#000000;"><span style="font-size: 11px;">Mit größter Sorgfalt hergestellte und bemalte Kisten eignen sich hervorragend zur Aufbewahrung oder Anordnung von kleinen Küchengeräten und Utensilien, Würzen, Flaschen, Konserven oder vielen anderen. Sie passen nicht nur gut in jede Küche oder jeden Essplatz, sondern sind auch äußerst nützlich und verstellbar.</span></span></p>
+</div>
+</div></div>
+<div style="width:100%;min-height:358px;position:relative;display:flex;align-items:flex-start"><div id="mobile_elementmu0ra_16" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/AxaaRAi.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="mobile_elementmu0ra_19" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><strong>Werkzeugaufbewahrung</strong></span></p>
+<p><span style="color:#000000;"><span style="font-size: 11px;">Dank 3 verschiedener Größen von Creative Deco Holzkisten sind sie perfekt für die Aufbewahrung von verschiedenen Arten von Werkzeugen oder Utensilien geeignet. Malen, skizzieren, DIY-Aktivitäten, basteln, bauen, sammeln oder organisieren? Unsere farbenfrohen Boxen werden speziell für Sie hergestellt!</span></span></p>
+</div>
+</div></div>
+<div style="width:100%;min-height:339px;position:relative;display:flex;align-items:flex-start"><div id="mobile_elementmu0ra_13" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/3Ug8PNw.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="mobile_elementmu0ra_20" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><strong>Ein Haus mit minimalistischem Design</strong></span></p>
+<p><span style="color:#000000;"><span style="font-size: 11px;">Unsere Boxen sind ideal für jedes Haus, in dem Minimalismus geschätzt wird. Sie sind perfekt für die Aufbewahrung von Dingen, die wir nicht dem Tageslicht aussetzen wollen, oder um Ihr Zuhause besser zu organisieren. Dank des Deckels können Sie die Box verschließen und den Inhalt bleibt nur Ihnen bekannt.</span></span></p>
+</div>
+</div></div>
+<div style="width:100%;min-height:339px;position:relative;display:flex;align-items:flex-start"><div id="mobile_elementmu0ra_15" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/2KLrq5r.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="mobile_elementmu0ra_18" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><strong>Malen & Dekorieren</strong></span></p>
+<p><span style="color:#000000;"><span style="font-size: 11px;">Unsere Schachteln können auf vielfältige Weise dekoriert werden - durch Decoupage, Lackierung, Beizen, Lackierung, Pyrographie und andere künstlerische Techniken. Sie sind ein großartiges Geschenk für Weihnachten, Geburtstagen, Ostern und anderen besonderen Anlässen wie Gedächtnisboxen für Neugeborene und Verstorbene.</span></span></p>
+</div>
+</div></div>
+<div style="width:100%;min-height:358px;position:relative;display:flex;align-items:flex-start"><div id="mobile_elementmu0ra_16" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/g3Zif1L.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="mobile_elementmu0ra_19" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><strong>Gravieren</strong></span></p>
+<p><span style="color:#000000;"><span style="font-size: 11px;">Alle unsere Produkte aus Holz können auf allen ihren Seiten graviert werden - sowohl das Sperrholz auf der Unterseite und Oberseite als auch Kiefernholz an den Seiten. Um die besten Ergebnisse zu erreichen, nutzen Sie einen Laser-Gravur-Service, das in der Regel können bei Ihrem örtlichen Schuhreparaturwerkstatt oder Juwelierwerkstatt zu finden ist.</span></span></p>
+</div>
+</div></div>
+<div style="width:100%;min-height:339px;position:relative;display:flex;align-items:flex-start"><div id="mobile_elementmu0ra_13" data-element-type="editor.elements.ImageElement"><img src="https://i.imgur.com/ua2pW2G.jpg" width="100%" height="100%" title="" style="border:0"></div>
+<div id="mobile_elementmu0ra_20" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><strong>Zubehör</strong></span></p>
+<p><span style="color:#000000;"><span style="font-size: 11px;">Holz ermöglicht eine Vielzahl von Anpassungsmöglichkeiten - sei es beim Austausch der Scharniere, beim Anbringen einer Verriegelung oder bei der Sicherung der Ecken der Box. Obwohl es empfohlen wird, Maschinen zu verwenden, um dieses Zubehör anzubringen, können sie dennoch leicht mit einfachen Handwerkzeugen befestigt werden, was den Prozess reibungslos und angenehm macht.</span></span></p>
+</div>
+</div></div>
+<div style="width:100%;min-height:959px;position:relative;display:flex;align-items:flex-start"><div id="mobile_element_5" data-element-type="editor.elements.MobileTabsElement"><div class="cl-tabs-el-wrapper" style="display:flex;flex-direction:column;height:100%"><input type="radio" id="cl-tabs-el-tabs1-u_mobile_element_5" name="cl-tabs-el-tabs-u_mobile_element_5" checked=""><label for="cl-tabs-el-tabs1-u_mobile_element_5" class="cl-tabs-el-label" style="font-size:20px;font-family:Open Sans;font-weight:bold;color:rgba(255, 255, 255, 1);text-align:left;background-color:rgba(0, 0, 0, 1)">Zahlung</label><div id="mobile_element_5_child_0" class="cl-tabs-el-content cl-tabs-el-content1-u_mobile_element_5" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><span style="font-size:16px"><span style="font-family:open sans">Wir akzeptieren Zahlungen mit einer der folgenden Methoden:</span></span></span></p>
+<p><span style="color:#000000;"><br>
+</span></p>
+<p><span style="color:#000000;"><span style="font-size:16px"><span style="font-family:open sans"><strong>PayPal</strong></span></span></span></p>
+<p><span style="color:#000000;"><br>
+</span></p>
+<p><span style="color:#000000;"><span style="font-size:16px"><span style="font-family:open sans">Bitte zahlen Sie so schnell wie möglich nach dem Kauf, damit wir Ihren Artikel schneller an Sie senden können!</span></span></span></p>
+</div>
+</div><input type="radio" id="cl-tabs-el-tabs2-u_mobile_element_5" name="cl-tabs-el-tabs-u_mobile_element_5"><label for="cl-tabs-el-tabs2-u_mobile_element_5" class="cl-tabs-el-label" style="font-size:20px;font-family:Open Sans;font-weight:bold;color:rgba(255, 255, 255, 1);text-align:left;background-color:rgba(0, 0, 0, 1)">Versand</label>
+<div id="mobile_element_5_child_1" class="cl-tabs-el-content cl-tabs-el-content2-u_mobile_element_5" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><span style="font-family:open sans"><span style="font-size:16px">Wir bieten <strong>KOSTENLOSEN</strong> Versand für alle Bestellungen!</span></span></span></p>
+<p><span style="color:#000000;"><br>
+</span></p>
+<p><span style="color:#000000;"><span style="font-family:open sans"><span style="font-size:16px">Ihre Bestellung wird innerhalb von 1 Werktag nach Zahlungseingang (Montag-Freitag) versandt und sollte voraussichtlich ein oder zwei Tage nach Versand eingehen.</span></span></span></p>
+<p><span style="color:#000000;"><br>
+</span></p>
+<p><span style="color:#000000;"><span style="font-family:open sans"><span style="font-size:16px">In dem sehr unwahrscheinlichen Fall, dass Ihr Artikel während des Versands verloren geht oder beschädigt wird, setzen Sie sich bitte mit uns in Verbindung, und wir stellen entweder eine vollständige Rückerstattung oder einen Ersatz aus.</span></span></span></p>
+</div>
+</div><input type="radio" id="cl-tabs-el-tabs3-u_mobile_element_5" name="cl-tabs-el-tabs-u_mobile_element_5"><label for="cl-tabs-el-tabs3-u_mobile_element_5" class="cl-tabs-el-label" style="font-size:20px;font-family:Open Sans;font-weight:bold;color:rgba(255, 255, 255, 1);text-align:left;background-color:rgba(0, 0, 0, 1)">Rückgabe</label>
+<div id="mobile_element_5_child_2" class="cl-tabs-el-content cl-tabs-el-content3-u_mobile_element_5" data-element-type="editor.elements.RichTextElement"><div class="cl-rich-text-el">
+<p><span style="color:#000000;"><span style="font-size:16px"><span style="font-family:open sans">30 TAGE GELD-ZURÜCK-GARANTIE</span></span></span></p>
+<p><span style="color:#000000;"><br>
+</span></p>
+<p><span style="color:#000000;"><span style="font-size:16px"><span style="font-family:open sans">Wir glauben, dass wir das hochwertigste Produkt auf dem Markt haben. Aus diesem Grund erhalten Creative Deco-Holzkisten eine 30-tägige Geld-zurück-Garantie, die belegt, dass Sie mit unseren Holzkisten zu 100% zufrieden sein werden.</span></span></span></p>
+<p><span style="color:#000000;"><br>
+</span></p>
+<p><span style="color:#000000;"><span style="font-size:16px"><span style="font-family:open sans">Jedes Produkt, das Sie zurücksenden, muss sich in dem Zustand befinden, in dem Sie es erhalten haben und in der Originalverpackung.</span></span></span></p>
+</div>
+</div></div></div>
+<div id="mobile_element003h6q_6" data-element-type="editor.elements.HtmlElement"><center><div style="overflow-x:auto">
+<table cellpadding="2" cellspacing="0" style="color: rgb(0,0,0); text-align: center; width: 945px;">
+<tbody><tr style="background-color: rgb(255, 255, 255);">
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none;"><br>
+</td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><img src="https://i.imgur.com/Bs654Ec.png" style="width: 100px; height: 200px;"><br>
+</td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none;"><a href="LINK" target="_blank"><img src="https://i.imgur.com/8y9nZb7.png" style="width: 100px; height: 200px;"><br>
+</a></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none;"><a href="LINK" target="_blank"><img src="https://i.imgur.com/9Skv9HO.png" style="width: 100px; height: 200px;"><br>
+</a></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none;"><a href="LINK" target="_blank"><img src="https://i.imgur.com/chIBXAi.png" style="width: 100px; height: 200px;"><br>
+</a></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none;"><a href="LINK" target="_blank"><img src="https://i.imgur.com/EM93rJi.png" style="width: 100px; height: 200px;"><br>
+</a></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none;"><a href="LINK" target="_blank"><img src="https://i.imgur.com/mJmGN9P.png" style="width: 100px; height: 200px;"><br>
+</a></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><br>
+</td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><span style="font-size:14px;"><b>Kleine Box</b></span></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><span style="font-size:14px;"><a href="LINK" target="_blank"><b>Kleine Box</b></a></span></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><span style="font-size:14px;"><a href="LINK" target="_blank"><b>Medium Box</b></a></span></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><span style="font-size:14px;"><a href="LINK" target="_blank"><b>Medium Box</b></a></span></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><span style="font-size:14px;"><a href="LINK" target="_blank"><b>Große Box</b></a></span></td>
+<td colspan="1" rowspan="1" style="text-align: center; width: 160px; height: 30px; border: none"><span style="font-size:14px;"><a href="LINK" target="_blank"><b>Große Box</b></a></span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Außenmaße</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">30 x 20 x 14 cm</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">30 x 20 x 14 cm</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">40 x 30 x 14 cm</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">40 x 30 x 14 cm</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">40 x 30 x 24 cm</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">40 x 30 x 24 cm</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Mit Handgriff</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Nein</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Nein</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Nein</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Lackfarbe</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">Blau</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Blau</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Blau</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Blau</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Blau</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Blau</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Material</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">Natürliches Kiefernholz</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Natürliches Kiefernholz</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Natürliches Kiefernholz</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Natürliches Kiefernholz</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Natürliches Kiefernholz</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Natürliches Kiefernholz</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Sicher in der Anwendung</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">Abgerundete Kanten</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Abgerundete Kanten</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Abgerundete Kanten</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Abgerundete Kanten</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Abgerundete Kanten</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Abgerundete Kanten</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Endbearbeitung</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">Acryl-Holzlasur</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Acryl-Holzlasur</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Acryl-Holzlasur</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Acryl-Holzlasur</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Acryl-Holzlasur</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Acryl-Holzlasur</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Andere Farben erhältlich</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">✓</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Scharniere</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">Goldfarbenes Metall</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Goldfarbenes Metall</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Goldfarbenes Metall</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Goldfarbenes Metall</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Goldfarbenes Metall</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">Goldfarbenes Metall</span></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" style="color: rgb(137, 137, 137); text-align: center; width: 160px; height: 30px; border-style: solid; border-color: rgb(137, 137, 137); border-top: none; background-color: rgb(247, 247, 247);"><span style="font-family: roboto; font-size: 14px">Netto-Gewicht</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 124px; height: 27px;"><span style="font-family: roboto; font-size: 14px;">0,8 kg</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">0,8 kg</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">1,5 kg</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">1,5 kg</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-right: none; border-top: none; width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">2 kg</span></td>
+<td style="text-align: center; border-style: solid; border-color: rgb(137, 137, 137); border-left: none; border-top: none; background-color: rgb(254, 245, 236); width: 160px; height: 30px;"><span style="font-family: roboto; font-size: 14px;">2 kg</span></td>
+</tr>
+</tbody></table>
+</div>
+</center></div></div></div></div></div>
